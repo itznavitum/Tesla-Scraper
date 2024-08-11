@@ -82,7 +82,8 @@ If any vehicles match the criteria, an email will be sent to the recipients list
 
 ## Output
 
-- **`cars.txt`:** Contains details of the vehicles found.
+- **`cars.txt`:** Contains details of all the vehicles found at the URL.
+- **Email Sent:** Contains details of vehicles that match the criteria.
 
 ## Troubleshooting
 

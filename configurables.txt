@@ -1,5 +1,5 @@
 {
-    "URL": "https://www.tesla.com/inventory/new/m3",
+    "URL": "https://www.tesla.com/inventory/new/m3?WHEELS=NINETEEN&arrangeby=plh&range=0",
     "Zip Code": "94016",
     "Max Price - Autopilot": "60000",
     "Max Price - Full Self-Driving Capability": "78000",

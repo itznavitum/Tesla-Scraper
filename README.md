@@ -64,8 +64,6 @@ or
 ```bash
 py tesla_inventory_scraper.py
 ```
-  
-## Usage
 
 ### What the Script Does
 

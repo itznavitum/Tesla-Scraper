@@ -80,6 +80,17 @@ The script will:
 
 If any vehicles match the criteria, an email will be sent to the recipients listed in the `configurables.txt` file, containing the details of the found vehicles.
 
+## Execution
+
+Windows:
+
+The script is best used as an .exe file which can be created in Windows Powershell.
+Navigate to the directory of the script and use the following command: 
+
+``` pyinstaller --onefile -w 'tesla_inventory_scraper.py' ```
+
+Set up this executable file as an action in Windows Task Scheduler which can be triggered to repeat every 5 min, 10 min, and so on...
+
 ## Output
 
 - **`cars.txt`:** Contains details of all the vehicles found at the URL.

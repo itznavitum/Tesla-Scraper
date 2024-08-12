@@ -31,7 +31,7 @@ This file should be in JSON format and should include details such as the Tesla 
 
 ### Detailed Configuration Breakdown
 
-- **Zip Code**: The ZIP code that the Tesla website uses to determine the availability of vehicles. This should be set to the ZIP code you want to search within.
+- **Zip Code**: The ZIP code that the Tesla website uses to determine the availability of vehicles and Est. Transport Fee. This should be set to the ZIP code you want to search within. This also determines the overall cost of the vehicle which is the listed price + Est. Transport Fee.
 
 - **URL**: The URL of Tesla's inventory page with your desired filters applied. Visit the Tesla inventory website, apply all your desired filters (such as interior color, seating configuration, year, etc.), and then copy the URL into this field. This ensures the script scrapes the exact results you are interested in.
 

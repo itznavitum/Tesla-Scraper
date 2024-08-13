@@ -21,7 +21,7 @@ def configurables():
     Returns:
         dict: Configuration data loaded from the file.
     """
-    with open('configurables.txt') as f:
+    with open('configurables.txt','r') as f:
         data = f.read()
 
     # Parse the JSON data into a dictionary
